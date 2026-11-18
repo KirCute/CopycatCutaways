@@ -1,0 +1,7 @@
+{
+  "block.copycatcutaways.copycat_cutaway": "裁切伪装方块",
+  "block.copycatcutaways.copycat_cutaway_ghost": "无碰撞裁切伪装方块",
+  "itemGroup.copycatcutaways": "伪装方块：切面伪装",
+  "tooltip.copycatcutaways.select": "右键方块表面后，依次选择三个棱上断点和第四个面上点。",
+  "tooltip.copycatcutaways.commit": "第四次点击将确认并放置。"
+}

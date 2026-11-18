@@ -1,0 +1,7 @@
+{
+  "block.copycatcutaways.copycat_cutaway": "Copycat Cutaway",
+  "block.copycatcutaways.copycat_cutaway_ghost": "No-Collision Copycat Cutaway",
+  "itemGroup.copycatcutaways": "Copycat: Cutaways",
+  "tooltip.copycatcutaways.select": "Right-click a surface, then select three edge points and a face point.",
+  "tooltip.copycatcutaways.commit": "The fourth click commits the cut."
+}

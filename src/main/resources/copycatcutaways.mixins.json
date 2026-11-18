@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "top.kircute.copycatcutaways.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CTModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
